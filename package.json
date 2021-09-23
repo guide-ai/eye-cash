@@ -8,8 +8,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^3.9.0",
     "expo": "~42.0.1",
+    "expo-camera": "~11.2.2",
+    "expo-speech": "~9.2.0",
     "expo-status-bar": "~1.0.4",
+    "install": "^0.13.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
